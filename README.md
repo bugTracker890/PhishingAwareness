@@ -1,7 +1,7 @@
-# CodeAlpha_PhishingAwareness
+# PhishingAwareness
 Complete phishing awareness training module including interactive HTML quiz, best practices cheatsheet, and PowerPoint presentation. Educates users to recognize and avoid phishing attacks.
 
-# 🎣 Phishing Awareness Training - CodeAlpha Task 2
+# 🎣 Phishing Awareness Training 
 
 ## 📌 Project Overview
 This is a comprehensive phishing awareness training module developed during my cybersecurity internship at **CodeAlpha**. It educates users about recognizing, avoiding, and responding to phishing attacks.
